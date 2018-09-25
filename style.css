@@ -1,4 +1,11 @@
+
 <style>
-@media only screen and (max-width: 500px) {
+body {
+  background-color: grey;
+}
+@media (max-width: 500px) {
+  body {
+  background-color: white;
+}
 }
 </style>
