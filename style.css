@@ -3,9 +3,17 @@
 body {
   background-color: grey;
 }
+#welcome-section {
+  height:100vh;
+  width: auto;
+}
+#navbar {
+}
+
 @media (max-width: 500px) {
   body {
   background-color: white;
 }
 }
+
 </style>
